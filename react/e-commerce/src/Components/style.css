@@ -1,0 +1,31 @@
+/*.container {
+  display: flex;
+  gap: 10px;
+  padding-top: 2%;
+  background-color: teal;
+}*/
+h1 {
+  font-size: 50px;
+  font-style: italic;
+  color: white;
+}
+.login {
+  display: flex;
+  gap: 20px;
+}
+.login-button {
+  width: 40%;
+  height: 40%;
+}
+.cart-image {
+  width: 5%;
+  height: 5%;
+  color: black;
+}
+.search {
+  width: 50%;
+  height: 20%;
+  margin-right: 20%;
+  margin-left: 5%;
+  margin-top: 1%;
+}
