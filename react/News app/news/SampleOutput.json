@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "Gough named Yorkshire cricket director",
+      "description": "Former England fast bowler Darren Gough is appointed as Yorkshire's interim director of cricket until the end of the 2022 season.",
+      "url": "http://www.bbc.co.uk/sport/cricket/59545490",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+      "publishedAt": "2021-12-06T09:52:31.7961789Z",
+      "content": "Former England fast bowler Darren Gough has been appointed as Yorkshire's interim director of cricket until the end of the 2022 season.\r\nA report found former player Azeem Rafiq was a victim of \"raci… [+170 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Oliver Dawnay",
+      "title": "Yorkshire set to appoint Darren Gough as new director of cricket following exodus of staff in wake of...",
+      "description": "",
+      "url": "https://talksport.com/sport/cricket/996452/yorkshire-darren-gough-azeem-rafiq-racism-row/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2021/12/GettyImages-1196509261.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2021-12-05T22:07:47Z",
+      "content": "Darren Gough will be named Yorkshire’s new director of Cricket on Monday, talkSPORT understands.\r\nThe 51-year-old has been a regular on the talkSPORT airwaves since retiring in 2008, but has always r… [+1393 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
